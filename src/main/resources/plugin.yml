@@ -1,0 +1,4 @@
+name: McPluginMaven
+main: com.agusces0.McPluginMaven
+version: 1.0
+api-version: 1.8
